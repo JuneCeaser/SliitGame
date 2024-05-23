@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Bubble Blast</string>
+    <string name="next">Next</string>
+    <string name="start">start</string>
+    <string name="total_points">Total Points</string>
+    <string name="_100">100</string>
+    <string name="_30">30</string>
+    <string name="x">X</string>
+    <string name="x_play">X Play</string>
+    <string name="_10">10</string>
+    <string name="_50">20</string>
+    <string name="home">Home</string>
+    <string name="play">Play</string>
+    <string name="home1">Home1</string>
+    <string name="re_try">Re Try</string>
+    <string name="retry">Retry</string>
+    <string name="_000">000</string>
+    <string name="high_score">High Score</string>
+</resources>
